@@ -22,4 +22,5 @@ models/GFPGANv1.4.pth
 *.onnx
 models/DMDNet.pth
 faceswap/
-.vscode/
+config.bat
+node_modules
